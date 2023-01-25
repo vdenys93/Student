@@ -6,8 +6,8 @@ import org.junit.runners.Suite.SuiteClasses;
 
 /**
  * @Viktoriia Denys - vdenys
- * CIS175 - Fall 2022
- * Sep 8, 2022
+ * CIS175 - Spring 2023
+ * Jan 24, 2023
  */
 @RunWith(Suite.class)
 @SuiteClasses({ TestStudentGroupMethod.class, TestStudentTuitionDiscount.class })
